@@ -13,8 +13,8 @@ var mainState = {
 
         game.stage.backgroundColor = '#71c5cf';
 
-        game.load.image('bird', 'assets/man.png');
-        game.load.image('pipe', 'assets/ball.png');
+        game.load.image('bird', 'assets/harry.png');
+        game.load.image('pipe', 'assets/voldemort.png');
 
         // Load the jump sound
         game.load.audio('jump', 'assets/jump.wav');
